@@ -4,14 +4,6 @@
 
 > A conversational AI assistant powered by Google's Gemini API, combining general-purpose intelligence with specialized travel planning capabilities.
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white](https://img.shields.io/badge/Python-3.10+-blue?logo=python\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Streamlit-Framework-FF4B4B?logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-Framework-FF4B4B?logo=streamlit\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/Google-Gemini%20API-8E75B2?logo=google&logoColor=white](https://img.shields.io/badge/Google-Gemini%20API-8E75B2?logo=google\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/SDK-google--genai-orange](https://img.shields.io/badge/SDK-google--genai-orange)" />
-&#x20; \<img src="[https://img.shields.io/badge/Status-Active-success](https://img.shields.io/badge/Status-Active-success)" />
-\</p>
-
 ---
 
 ## 📌 Table of Contents
@@ -411,6 +403,4 @@ TripMate AI has several opportunities for further development.
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
-
-APOORVA SHREE
+**APOORVA SHREE**
